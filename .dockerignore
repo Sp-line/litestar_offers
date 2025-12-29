@@ -1,0 +1,27 @@
+# Git
+.git
+.gitignore
+
+# Python/Environment
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Testing/Quality
+.pytest_cache/
+.coverage
+htmlcov/
+.mypy_cache/
+
+# Docker/Env
+.env
+docker-compose.yml
+Dockerfile
+README.md
